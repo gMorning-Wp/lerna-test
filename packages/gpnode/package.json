@@ -1,0 +1,15 @@
+{
+  "name": "gpnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Hello gpnode\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "4.7.3"
+  }
+}

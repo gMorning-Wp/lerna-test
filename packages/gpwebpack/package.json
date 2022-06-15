@@ -1,0 +1,12 @@
+{
+  "name": "gpk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Hello gpwebpack\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

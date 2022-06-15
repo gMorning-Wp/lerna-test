@@ -1,0 +1,30 @@
+{
+  "name": "testgpnote",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "wangpeng180 <wangpeng180@jd.com>",
+  "homepage": "https://github.com/gMorning-Wp/lerna-test#readme",
+  "license": "ISC",
+  "main": "lib/gpnote.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gMorning-Wp/lerna-test.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/gMorning-Wp/lerna-test/issues"
+  },
+  "dependencies": {
+    "module-1": "^0.0.0",
+    "typescript": "^4.7.3"
+  }
+}
